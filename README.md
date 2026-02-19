@@ -31,18 +31,18 @@ The data integrates assignment information, survey responses, project metadata, 
 
 ### Survey Variables  
 
-**Assignment & Context Data**
+**1. Assignment & Context Data**
 - Country and project information  
 - Staff role and assignment details  
 - Partner section and operational metadata  
 
-**KPI Measures**
+**2. KPI Measures**
 - Relevance – extent to which projects meet local needs  
 - Do No Harm – extent to which risks are mitigated  
 - Staff Support and Care indicators  
 - Operational process KPIs  
 
-**Qualitative Feedback**
+**3. Qualitative Feedback**
 - Open-text survey responses  
 - Checklist-based operational issues  
 - Staff-reported challenges and support needs  
